@@ -33,5 +33,5 @@ Due to file size limitations, the complete project files are provided in a compr
 This is an **academic project**, developed for learning purposes. The code structure reflects educational objectives and focuses on clarity and correctness rather than production-level optimization.
 
 ## Author
-Developed by **Nicolas Cerqueira Lima**  
+Developed by **Nicolas Cerqueira Lima** and **Felipe Gomes**
 Computer Engineering Student
