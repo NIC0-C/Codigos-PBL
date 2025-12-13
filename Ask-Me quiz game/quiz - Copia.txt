@@ -1,0 +1,11 @@
+questions = [{category: Historia, 
+         value: 10, 
+         questionpath:  
+         questiontext:  Quem decretou o Bloqueio Continental, impedindo o acesso a portos, em 21 de novembro de 1806?, 
+         option 1: D. João VI
+         option 2: Napoleão Bonaparte
+         option 3: D. Pedro I
+         option 4: D. Pedro II
+         option 5: Alexandre I da Rússia
+         explanaton: O Bloqueio Continental foi um decreto assinado pelo imperador francês Napoleão Bonaparte em 1806. Essa resolução proibia países europeus de comercializarem produtos ingleses. Napoleão Bonaparte foi imperador da França e decretou o Bloqueio Continental para arruinar a economia da Inglaterra
+         hint: um lider que estava buscando expandir seu poder na europa}]
