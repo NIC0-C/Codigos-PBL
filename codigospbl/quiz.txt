@@ -1,0 +1,72 @@
+category: Historia
+value: 8
+questiontext: Quem decretou o Bloqueio Continental, impedindo o acesso a portos, em 21 de novembro de 1806?
+1: D. João VI
+2: Napoleão Bonaparte
+3: D. Pedro I
+4: D. Pedro II
+5: Alexandre I da Rússia
+correta: 2
+explanation: O Bloqueio Continental foi um decreto assinado pelo imperador francês Napoleão Bonaparte em 1806. Essa resolução proibia países europeus de comercializarem produtos ingleses. Napoleão Bonaparte foi imperador da França e decretou o Bloqueio Continental para arruinar a economia da Inglaterra
+hint: um líder que estava buscando expandir seu poder na europa
+
+category: Historia
+value: 4
+questiontext: Em que ano a Revolução Francesa começou?
+1: 1776
+2: 1789
+3: 1804
+4: 1799
+5: 1821
+correta: 2
+explanation: A Revolução Francesa começou em 1789, marcando o fim do Antigo Regime e dando início a uma série de mudanças sociais, políticas e econômicas na França, que influenciaram o mundo todo.
+hint: quando a população de Paris atacou a Bastilha, uma prisão que simbolizava o absolutismo francês. 
+
+category: Historia
+value: 4
+questiontext: Qual desses acontecimentos simbolizou o início da Idade Moderna?
+1: Queda de Constantinopla
+2: Descobrimento da América
+3: Início da Guerra dos Cem Anos
+4: Revolução Russa
+5: Primeira Guerra Mundial
+correta: 1
+explanation: A Queda de Constantinopla em 1453 é comumente considerada o marco inicial da Idade Moderna, pois representou a ascensão dos Estados modernos e a intensificação das navegações, como a busca por novas rotas comerciais.
+hint: Um acontecimento marcante dessa epoca foi: As grandes naveçaões
+
+category: Historia
+value: 2
+questiontext: Quem foi o primeiro imperador do Brasil?
+1: D. João VI
+2: José Bonifácio
+3: D. Pedro II
+4: Tiradentes
+5: D. Pedro I
+correta: 5
+explanation: D. Pedro I foi o primeiro imperador do Brasil, após declarar a independência do país em 1822. Ele governou até 1831, quando abdicou em favor de seu filho, D. Pedro II.
+hint: Ele é famoso por ter dito Independência ou Morte! ao declarar a independência do Brasil de Portugal em 1822.
+
+category: Historia
+value: 2
+questiontext: Qual foi o tratado que encerrou a Primeira Guerra Mundial?
+1: Tratado de Paris
+2: Tratado de Tordesilhas
+3: Tratado de Versalhes
+4: Tratado de Utrecht
+5: Tratado de Maastricht
+correta: 3
+explanation: O Tratado de Versalhes, assinado em 1919, encerrou formalmente a Primeira Guerra Mundial, impondo uma série de condições severas à Alemanha, que contribuíram para as tensões que levariam à Segunda Guerra Mundial.
+hint: foi assinado no dia 28 de junho de 1919 e ficou conhecido por ser o principal dos tratados de paz assinados após a Primeira Guerra Mundial.
+
+category: Historia
+value: 2
+questiontext: Qual foi o principal motivo da Guerra Fria entre Estados Unidos e União Soviética?
+1: Disputa por territórios na África
+2: Conflitos de fronteira na Europa
+3: Controle de rotas comerciais na Ásia
+4: Diferenças ideológicas entre capitalismo e comunismo
+5: Rivalidade no domínio do esporte olímpico
+correta: 4
+explanation:  A Guerra Fria foi caracterizada por uma disputa ideológica e de influência entre os Estados Unidos (capitalismo) e a União Soviética (comunismo), sem um confronto militar direto, mas com vários conflitos indiretos ao redor do mundo.
+hint: O ponto de partida para o conflito foi um discurso do presidente norte-americano Harry Truman, em 1947
+
