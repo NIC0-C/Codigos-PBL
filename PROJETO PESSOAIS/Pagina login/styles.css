@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    top: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'poppins',sans-serif;
+}
+
+.container{
+    width: 420px;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 2px solid  rgba(rgb(75, 75, 75), rgb(75, 75, 75),rgb(75, 75, 75), .2);
+    box-shadow: 0px 0px 10px lightblue;
+    padding: 30px 40px;
+    color: #fff;
+    backdrop-filter: blur(20px);
+}
+
+.container h1{
+    text-align: center;
+    padding: 30px 40px;
+}
+
+.input-box{
+    position: relative;
+    width: 100%;
+    margin: 30px 0px;
+    height: 40px;
+}
+
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border-radius: 20px;
+    border: 3px solid rgba(rgb(75, 75, 75), rgb(75, 75, 75),rgb(75, 75, 75), .2);
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+
+
+.input-box input::placeholder{
+    color: #fff;
+}
+
+.input-box i{
+    position: absolute;
+    right: 20px;
+    top: 35%;
+    transform: translate(-35%);
+}
+
+.remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.remember-forgot{
+    & label{
+        color:#fff ;
+        & input{
+            accent-color: #fff;
+            margin-right: 5px;
+        }
+    }
+
+    & a{
+        text-decoration: none;
+        color: #fff;
+    }
+}
+
+.remember-forgot a:hover{
+    text-decoration: underline;
+}
+
+.submit-button{
+    width: 100%;
+    height: 50px;
+    background-color:lightblue;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #b1b0b0;
+    font-weight: 600px;
+
+}
+
+.submit-button:hover{
+    background-color: transparent;
+    box-shadow: 0px 0px 10px lightblue ;
+    color: #ffffff;
+    transition: 0.5s;
+}
+.register-link{
+    font-size: 16px;
+    padding: 10px 0px 5px;
+    text-align: center;
+
+    & a:hover{
+        text-decoration: underline;
+    }
+
+    & a{
+        text-decoration: none;
+        color: #fff;
+        font-weight: 50px;
+    }
+}
